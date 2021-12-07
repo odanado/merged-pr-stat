@@ -26,7 +26,9 @@ output is
   "leadTimeSecondsAverage": 578271,
   "leadTimeSecondsMedian": 58163,
   "timeToMergeSecondsAverage": 735697,
-  "timeToMergeSecondsMedian": 82453
+  "timeToMergeSecondsMedian": 82453,
+  "timeToMergeSecondsAverage": 578271,
+  "timeToMergeSecondsMedian": 58163
 }
 ```
 
